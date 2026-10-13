@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "id": "usr_admin_alxx",
+      "email": "alxx3433@gmail.com",
+      "username": "alxx",
+      "role": "admin",
+      "banned": false,
+      "avatarIndex": 0,
+      "createdAt": "2026-10-13T06:54:14.042Z"
+    },
+    {
+      "id": "usr_1791874465505_20u9",
+      "email": "teststudent@example.com",
+      "username": "TestStudent",
+      "role": "user",
+      "banned": false,
+      "avatarIndex": 2,
+      "createdAt": "2026-10-13T06:54:25.505Z"
+    }
+  ],
+  "customGames": [],
+  "globalBookmarks": [
+    {
+      "id": "b1",
+      "title": "YouTube",
+      "url": "https://www.youtube.com",
+      "icon": "📺",
+      "pinned": true,
+      "isGlobal": true
+    },
+    {
+      "id": "b2",
+      "title": "Discord",
+      "url": "https://discord.com/app",
+      "icon": "💬",
+      "pinned": true,
+      "isGlobal": true
+    },
+    {
+      "id": "b3",
+      "title": "Reddit",
+      "url": "https://www.reddit.com",
+      "icon": "👾",
+      "pinned": true,
+      "isGlobal": true
+    },
+    {
+      "id": "b4",
+      "title": "Spotify",
+      "url": "https://open.spotify.com",
+      "icon": "🎧",
+      "pinned": true,
+      "isGlobal": true
+    },
+    {
+      "id": "b5",
+      "title": "Desmos",
+      "url": "https://www.desmos.com/calculator",
+      "icon": "📈",
+      "pinned": false,
+      "isGlobal": true
+    },
+    {
+      "id": "b6",
+      "title": "Wikipedia",
+      "url": "https://en.wikipedia.org",
+      "icon": "📚",
+      "pinned": false,
+      "isGlobal": true
+    }
+  ],
+  "updates": [
+    {
+      "id": "up_1",
+      "version": "v2.0",
+      "title": "alxx.studies Rebrand & 700+ Games Archive",
+      "category": "Feature",
+      "date": "October 13, 2026",
+      "content": [
+        "Rebranded portal with sleek modern ALXX wordmark and aesthetic themes.",
+        "Integrated 700+ unblocked web games archive in 7-8 per row layout with pinning.",
+        "Edge-to-edge frameXTV cinema player and YouTube Music streaming.",
+        "Direct messaging with friend accounts, profanity blur, and admin trust permissions.",
+        "Gemini AI Assistant with reactive iPhone ambient aurora lighting.",
+        "Complete Admin Super-Deck with game editor, place reordering, and moderation."
+      ]
+    }
+  ],
+  "messages": []
+}

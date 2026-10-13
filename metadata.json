@@ -1,0 +1,22 @@
+{
+  "name": "alxx.studies",
+  "description": "Aesthetic web portal and study suite featuring homework AI, games lounge, media streaming, lo-fi beats, admin moderation, and framing tools.",
+  "requestFramePermissions": [
+    "accelerometer",
+    "autoplay",
+    "camera",
+    "clipboard-read",
+    "clipboard-write",
+    "display-capture",
+    "encrypted-media",
+    "fullscreen",
+    "gamepad",
+    "geolocation",
+    "gyroscope",
+    "microphone",
+    "midi",
+    "picture-in-picture",
+    "screen-wake-lock"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
